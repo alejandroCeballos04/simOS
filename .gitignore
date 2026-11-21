@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos compilados
+out/
+*.class
+
+# Generado al ejecutar SimOS
+bitacora.txt
